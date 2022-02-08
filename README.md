@@ -38,9 +38,12 @@ The <title> element defines the title of the HTML page.
 
 
 •To those who are new to sublime and are finding it difficult to run their HTML file, see below simple steps.
+  
 I.Tools -> Build System -> New Build System...
 II.Add the following Text for opening with Google Chrome
+  
 {      "cmd": ["open" "-a" "Google Chrome" "$file"]----for mac
+  
 { "cmd": ["PATH_TO_YOUR_CHROME" "$file"] }-------for windows
 
 
