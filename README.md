@@ -61,7 +61,7 @@ IV.When you go back to Tools -> Build System , you’ll see chrome has been adde
 
 •You can add any paragraph of your choice and mine looked like this;
 
-![](Picture5.png)
+![](picture 5.png)
 
 
 
