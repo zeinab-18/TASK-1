@@ -32,7 +32,7 @@ The <title> element defines the title of the HTML page.
 
 •Notice how the tags have a start tag and an end tag denoted with a slash (</p>). Everything in between is the content of the tag. The content of a tag can usually have additional HTML tags within them as shown below;
 
-[](picture2.png)
+![](picture2.png)
 
 •Make sure to save your file as “index.html”. The "index.html" file is the default file that a web server will look for when accessing a website. After saving the file, you can double click it to open it with your browser. (Most preferably Chrome cause it supports all html commands).
 
@@ -47,7 +47,7 @@ II.Add the following Text for opening with Google Chrome
 { "cmd": ["PATH_TO_YOUR_CHROME" "$file"] }-------for windows
 
 
-[](picture3.png)
+![](picture3.png)
 
 
 then proceed to save your file as “Chrome.sublime-build”
@@ -55,14 +55,14 @@ then proceed to save your file as “Chrome.sublime-build”
 IV.When you go back to Tools -> Build System , you’ll see chrome has been added as an option as shown below.
   
 
-[](picture4.png)
+![](picture4.png)
   
 
 •To run your code, open the HTML file then right click and choose run in browser option and you will be directed to chrome as your default browser.
 
 •You can add any paragraph of your choice and mine looked like this;
 
-[](picture5.png)
+![](picture5.png)
 
 
 
