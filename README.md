@@ -48,7 +48,7 @@ II.Add the following Text for opening with Google Chrome
 { "cmd": ["PATH_TO_YOUR_CHROME" "$file"] }-------for windows
 
 
-![](Picture3.png)
+![](picture 3.png)
 
 
 then proceed to save your file as “Chrome.sublime-build”
