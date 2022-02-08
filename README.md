@@ -19,7 +19,7 @@
 •Let's start by creating a simple HTML page. An HTML page has the following basic layout. For this tutorial I’ll be using sublime as my code editor, you can use any code editor of your choice
 
 
-![](picture 1.png)
+[](picture 1.png)
 
 
 •Let's start by creating a simple page that contains the phrase "Hello, World!" in the body. The page will also have a title - that thing that shows up in the title of the tab in your browser. 
