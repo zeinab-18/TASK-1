@@ -8,7 +8,7 @@
 •Github is a web-based Git repository hosting Git repository for teams to store their code in a centralized location. GitHub offers all the distributed revision control and source code management (S0CM) functionality of Git as well as adding its own features
 
 
-#### HTML TUTORIAL
+# HTML TUTORIAL
 
 •HTML (Hypertext Markup Language) is a standard developed over the years to convey information over the internet by using “hyperlinks”.
 
