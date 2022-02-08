@@ -33,7 +33,7 @@ The <title> element defines the title of the HTML page.
 
 •Notice how the tags have a start tag and an end tag denoted with a slash (</p>). Everything in between is the content of the tag. The content of a tag can usually have additional HTML tags within them as shown below;
 
-![](Picture2.png)
+![](picture 2.png)
 
 •Make sure to save your file as “index.html”. The "index.html" file is the default file that a web server will look for when accessing a website. After saving the file, you can double click it to open it with your browser. (Most preferably Chrome cause it supports all html commands).
 
