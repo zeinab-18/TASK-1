@@ -55,7 +55,7 @@ then proceed to save your file as “Chrome.sublime-build”
 
 IV.When you go back to Tools -> Build System , you’ll see chrome has been added as an option as shown below.
 
-![]Picture4.png)
+![](picture 4.png)
 
 •To run your code, open the HTML file then right click and choose run in browser option and you will be directed to chrome as your default browser.
 
