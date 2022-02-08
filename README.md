@@ -20,7 +20,7 @@
 •Let's start by creating a simple HTML page. An HTML page has the following basic layout. For this tutorial I’ll be using sublime as my code editor, you can use any code editor of your choice
 
 
-![](Picture1)
+![](Picture1.png)
 
 
 •Let's start by creating a simple page that contains the phrase "Hello, World!" in the body. The page will also have a title - that thing that shows up in the title of the tab in your browser. 
@@ -33,7 +33,7 @@ The <title> element defines the title of the HTML page.
 
 •Notice how the tags have a start tag and an end tag denoted with a slash (</p>). Everything in between is the content of the tag. The content of a tag can usually have additional HTML tags within them as shown below;
 
-![](picture 2)
+![](Picture2.png)
 
 •Make sure to save your file as “index.html”. The "index.html" file is the default file that a web server will look for when accessing a website. After saving the file, you can double click it to open it with your browser. (Most preferably Chrome cause it supports all html commands).
 
@@ -48,20 +48,20 @@ II.Add the following Text for opening with Google Chrome
 { "cmd": ["PATH_TO_YOUR_CHROME" "$file"] }-------for windows
 
 
-![](picture 3)
+![](Picture3.png)
 
 
 then proceed to save your file as “Chrome.sublime-build”
 
 IV.When you go back to Tools -> Build System , you’ll see chrome has been added as an option as shown below.
 
-![](picture 4)
+![]Picture4.png)
 
 •To run your code, open the HTML file then right click and choose run in browser option and you will be directed to chrome as your default browser.
 
 •You can add any paragraph of your choice and mine looked like this;
 
-![](picture 5)
+![](Picture5.png)
 
 
 
